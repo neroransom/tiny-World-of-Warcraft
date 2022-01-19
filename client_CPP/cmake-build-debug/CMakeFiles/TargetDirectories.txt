@@ -1,0 +1,3 @@
+/home/nero/CLionProjects/client_CPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nero/CLionProjects/client_CPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nero/CLionProjects/client_CPP/cmake-build-debug/CMakeFiles/client_CPP.dir

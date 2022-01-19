@@ -1,0 +1,4 @@
+/home/nero/CLion-2020.1.2/clion-2020.1.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/nero/CLionProjects/client_CPP
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nero/CLionProjects/client_CPP/cmake-build-debug
